@@ -1,6 +1,6 @@
 # Repository-2
+
 ## Activity 2
-## Overview
 
 This repository documents my GitHub collaboration activity with my blockmate, Lanz Tumanan (mochizuko). The activity focused on understanding how multiple contributors can work on the same repository using Git and GitHub. We also induced Conflicts to solve (Both user).
 
