@@ -2,11 +2,11 @@
 ## Activity 2
 ## Overview
 
-This repository documents my GitHub collaboration activity with my blockmate, Lanz Tumanan (mochizuko). The activity focused on understanding how multiple contributors can work on the same repository using Git and GitHub.
+This repository documents my GitHub collaboration activity with my blockmate, Lanz Tumanan (mochizuko). The activity focused on understanding how multiple contributors can work on the same repository using Git and GitHub. We also induced Conflicts to solve (Both user).
 
 Through this exercise, I practiced the basic Git workflow, including retrieving updates, making changes to files, committing modifications, and pushing changes to a remote repository. This activity helped me understand how Git supports version control and how GitHub makes collaboration easier.
 
-## Activity: Collaboration Using Git and GitHub
+## Activity: Collaboration Using Git and GitHub + Solving Merge Conflicts 
 
 ### Objective
 
@@ -21,7 +21,7 @@ To collaborate with a blockmate using Git and GitHub by sharing a repository, mo
 
 ### Description
 
-For this activity, I collaborated with my blockmate, Lanz Tumanan (mochizuko), through a shared GitHub repository. We added messages to a text file to demonstrate our participation and practice working with a shared project.
+For this activity, I collaborated with my blockmate, Lanz Tumanan (mochizuko), through a shared GitHub repository. We added messages to a text file to demonstrate our participation and practice working with a shared project. We also did a collaboration that include merging conflicts, and we both solved it. 
 
 The collaboration file included greetings and messages identifying the contributions of each participant. This demonstrated how multiple users can contribute to the contents of a repository.
 
